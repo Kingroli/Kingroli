@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingroli
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++ and Unity
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on Game Jams
 - 📫 How to reach me / Youtube Kingroli
 
